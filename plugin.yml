@@ -1,0 +1,13 @@
+name: RandomTPx
+main: NurAzliYT\RandomTPx\Main
+version: 1.0.0
+api: 5.0.0
+author: NurAzliYT, XPocketMC
+description: A plugin for random teleportation.
+commands:
+  randomtp:
+    description: Teleport to a random location
+    permission: randomtp.command
+permissions:
+randomtpx.command:
+default: true
